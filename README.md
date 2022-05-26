@@ -1,0 +1,2 @@
+# LAVA
+The Lava Wrapper is a general-purpose calculator that provides a python interface to enable one-click calculation of the many common properties with lammps and vasp. The name Lava is derived from the “La” in Lammps and “va” in vasp. It provides a set of classes and functions to generate configurations, run lammps/vasp calculation, retrieve the output, postprocess and plot the results. All the above tasks are hard-coded into the script, without the need to call additional libraries.
