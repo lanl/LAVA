@@ -23,7 +23,7 @@ Lava_Config.py: Specification the lammps executable, the lammps potential file, 
 
 **3. Types of Calculations****
 
-Currently, Lava Wrapper incorporates the following types of calculations. For some calculations the output a written to “Summary.dat” file that serves as the general output for Lava_Wrapper, and for other types of calculation where the results are tabulable, then it is written to a separate data file and plotted as well.![image](https://user-images.githubusercontent.com/106281982/171067570-90736300-9704-4feb-b4b9-ac5a3254658a.png)
+Currently, Lava Wrapper incorporates the following types of calculations. For some calculations the output a written to “Summary.dat” file that serves as the general output for Lava_Wrapper, and for other types of calculation where the results are tabulable, then it is written to a separate data file and plotted as well.
 
 ![image](https://user-images.githubusercontent.com/106281982/171067562-aa8b6181-480c-459a-84b6-aac9ec9d4e02.png)
 
