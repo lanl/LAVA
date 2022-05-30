@@ -145,7 +145,7 @@ def main():
         if not os.path.isfile('Lammps_latt.dat'):
             # Lattice constants and cohesive energy
             # List of phases supported are the following 
-            phase_list = ["A5_Beta_Sn","A5_Gamma_Sn"]
+            phase_list = ["FCC"]
             Lava_Calculator.get_cohesive_energy(phase_list, mode=mode)
 
         Calculations(mode=mode)
