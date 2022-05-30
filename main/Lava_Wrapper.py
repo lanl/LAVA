@@ -118,7 +118,7 @@ def Calculations(mode=None):
     # Perform uniaxial deformation along desired direction with erate/trate via a fix/deform command
     # deform_mode indicates which deformation mode is performed
     # 1=x 2=y,3=z, 4=yz, 5=xz, 6=xy
-    phase_list = ["A5_Beta_Sn","A5_Gamma_Sn"]
+    phase_list = ["FCC"]
     temp = 300
     lat_rep=[15,15,15]
     deform_mode = [1,2,3,4,5,6]
